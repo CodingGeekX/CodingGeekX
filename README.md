@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 👋 Hi, I'm Salman Khan
 
 ### PHP / Laravel Developer · Python / FastAPI Developer

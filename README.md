@@ -172,7 +172,7 @@ FastAPI, REST APIs, and backend/full-stack development**.
 
 -   💼 LinkedIn: **\[https://www.linkedin.com/in/salman-khan-47196a220 \]**
 -   📧 Email: **\[khansalman.ks1998@gmail.com\]**
--   🌐 Portfolio: **\[https://salman-khan-portfolio-lac.vercel.app\]**
+-   🌐 Portfolio: **\[https://salman-khan-portfolio-lac.vercel.app/ \]**
 
 ------------------------------------------------------------------------
 
